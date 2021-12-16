@@ -12,9 +12,15 @@
 
 
 `sail up -d` がうまくいったら containerが6つくらいできます
+
 `cd client | npm run dev`  したら、
+
 ブラウザで
-・Laravel :  http://localhost:80
-・Next.js : http://localhost:3000
-・テスト用で作ったfetch投げるページ：http://localhost:3000/hello
+
+- Laravel :  http://localhost:80
+
+- Next.js : http://localhost:3000
+
+- テスト用で作ったfetch投げるページ：http://localhost:3000/hello
+
 を開いてみてください
