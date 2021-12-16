@@ -13,7 +13,7 @@
 
 `sail up -d` がうまくいったら containerが6つくらいできます
 
-`cd client | npm run dev`  したら、
+`sail composer install` と `cp api/.env.example api/.env` と `cd client | npm run dev`  したら、
 
 ブラウザで
 
