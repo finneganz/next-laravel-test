@@ -1,0 +1,8 @@
+/*
+!.gitignore
+!/bin/
+/bin/*
+!/bin/sail
+!/laravel/
+/laravel/*
+!/laravel/sail
