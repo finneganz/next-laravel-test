@@ -6,3 +6,4 @@ module.exports = {
     singleQuote: true, // 二重引用符の代わりに単一引用符を使用
     endOfLine: 'auto', // 改行の文字コードを指定
   };
+  
